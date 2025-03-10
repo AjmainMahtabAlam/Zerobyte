@@ -13,7 +13,7 @@ python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
 
-## Api Endpoints
+Api Endpoints
 /api/token/ - Obtain JWT token
 /api/packages/ - List/Create packages
 /api/packages/<id>/ - Retrieve/Update package
